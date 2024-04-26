@@ -48,7 +48,7 @@
 
 	<scm>
 		<url>https://github.com/monikanart/test/src</url>
-		<connection>scm:git:https://{username}:{password}@github.com/monikanart/test.git</connection>
+		<connection>scm:git:https://{user.name}:{password}@github.com/monikanart/test.git</connection>
 		<developerConnection>scm:git:https://github.com/monikanart/test.git</developerConnection>
 		<tag>v0.1.1</tag>
 	</scm>
